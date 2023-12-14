@@ -1,4 +1,4 @@
-# network-event
+# networking-event
 A networking "game" that enables every participant of an event to meet every other participant exactly once.
 
 ---
@@ -13,6 +13,26 @@ I've always hoped for someone or something to break the ice for me, so that I ca
 This "game" is just a simple algorithm that enables every participant of the event to meet every other participant exactly once within a set time limit; i.e. it enables everyone to network.
 
 This breaks the ice for everyone and introduces everyone to everyone else.
+
+The event is best explained through an example.
+
+---
+
+## Real example of an event
+1. A conference has 45 participants. We gather them all in a hall that can fit an even larger number of people.
+2. We prepare 7 tables and mark each with a letter from A to G. The distance between each table is at least 3 meters.
+3. On each table, we place a set of 20-something questions. It doesn't have to be the same number, but it should be close.
+4. It's decided that each round will last 7 minutes. Since there's 8 rounds, the networking event will last about an hour, i.e. 56 minutes if there's no breaks.
+5. At the start, all participants are standing away from the tables.
+6. Each participant gets a ticket with a number, starting from 1 and reaching up to 45.
+7. Participants with numbers 1 to 7 are pointed to the appopriate A to G tables, since they'll spend the majority of the networking event at the same table.
+8. Participants with numbers 8 to 45 are pointed to the appropriate tables, as per the numbers on the backs of their tickets. Each participant can even verify their location by looking at the card on the table, which also lists the numbers that need to be present for each round.
+9. The round officially starts and everyone begins answering questions from the papers on the table. The organizer repeats to everyone that the goal is to discuss their answers so they can get to know each other, not answer all questions.
+10. After 7 minutes, the organizer calls for the end of the round and instructs everyone to move to the appropriate table for the next round.
+11. Repeat steps 9 and 10 until all rounds are done.
+12. After the networking event, people continue talking to those they haven't known before the event itself. Mission complete.
+
+---
 
 ## What do you need?
 - An area in which people can move around. Preferably a single large room or a hall.
@@ -44,18 +64,6 @@ This breaks the ice for everyone and introduces everyone to everyone else.
 - Everyone comments on the lectures from the conference, meetup, or whatever this networking event is happening at.
 - Prepare at least 10-20 questions for each table. In every round, participants have to answer some of the questions on the table. It's best to use questions that spark conversation, and not the questions with right or wrong answer. The goal is not to answer all questions, but to have a great time.
 
-## Real example of an event
-1. A conference has about 50 participants, but not everyone will participate in the networking event. So we use the version for 49 people.
-2.  We prepare 7 tables and mark each with a letter from A to G. The distance between each table is at least 3 meters.
-3.  On each table, we place a set of 20-something questions. It doesn't have to be the same number, but it should be close.
-4.  It's decided that each round will last 7 minutes. Since there's 8 rounds, the networking event will last about an hour, i.e. 56 minutes if there's no breaks.
-5.  All participants are standing away from the tables.
-6.  Each participant gets a number, starting from 1 and reaching up to 45, since that's how many people decided to participate in the networking event
-7.  Participants with numbers 1 to 7 are pointed to the appopriate A to G tables, since they'll spend the majority of the networking event at the same location
-8.  Participants with numbers 8 to 45 are pointed to the appropriate tables, as per the numbers on the backs of their tickets. Each participant can even verify their location by looking at the card on the table, which also lists the numbers that need to be present for each round
-9.  The first round officially starts and everyone begins answering questions from the papers on the table. The organizer repeats to everyone that the goal is to discuss their answers, not answer all questions
-10.  After 7 minutes, the organizer calls for the end of the round and instructs everyone to move to the appropriate table for round 2
-11.  This is repeated until all rounds are done
-12.  After the networking event, people continue talking to people they haven't known before the event itself. Mission complete.
+---
 
 If you have any questions, feel free to contact me.
