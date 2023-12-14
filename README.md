@@ -66,4 +66,4 @@ The event is best explained through an example.
 
 ---
 
-If you have any questions, feel free to contact me.
+If you have any questions, feel free to contact me on my [LinkedIn profile](https://www.linkedin.com/in/vatroslavmileusnic/).
